@@ -79,7 +79,7 @@ const Navbar = () => {
                                     // )
                                 } else {
                                     return (
-                                        <Link href={item.page}
+                                        <Link key={item.label} href={item.page}
                                             className={
                                                 "block lg:inline-block text-neutral-900  hover:text-neutral-500 dark:text-neutral-100"
                                             }
