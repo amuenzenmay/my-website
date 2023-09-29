@@ -16,7 +16,7 @@ const HeroSection = () => {
                     <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl"> Hi, I&#39;m August!</h1>
                     <p className="text-lg mt-4 mb-6 md:text-2xl">
                         I&apos;m a{" "} 
-                        <span className="font-semibold text-teal-600">
+                        <span className="font-semibold text-purple-600">
                             Junior Full Stack Developer{" "}
                         </span>
                         based in Chicago, IL. Working towards creating software 
@@ -26,7 +26,7 @@ const HeroSection = () => {
                     </p>
                     <Link
                         to="projects"
-                        className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+                        className="text-neutral-100 font-semibold px-6 py-3 bg-purple-600 rounded shadow hover:bg-purple-700"
                         activeClass="active"
                         spy={true}
                         smooth={true}
