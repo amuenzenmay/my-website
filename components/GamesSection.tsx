@@ -4,7 +4,7 @@ import Link from "next/link"
 
 const sports_games = [
     { game: "NFL Grid", link: "https://www.immaculategrid.com/football" },
-    { game: "MLB Grid", link: "https://www.immaculategrid.com/baseball" },
+    { game: "MLB Grid", link: "https://www.immaculategrid.com/" },
     { game: "NHL Grid", link: "https://www.immaculategrid.com/hockey" },
     { game: "Soccer Grid", link: "https://www.immaculatefooty.com/" },
     { game: "NBA Grid", link: "https://www.immaculategrid.com/basketball/mens" },
