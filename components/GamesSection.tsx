@@ -62,7 +62,7 @@ const GamesSection = () => {
                 </h1>
                 {all_games.map((item) => {
                     return (
-                        <div key={item.category} className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left mb-4 rounded hover:border-2 hover:border-purple-500">
+                        <div key={item.category} className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left mb-4 rounded border-2 border-white dark:border-slate-600 hover:border-purple-500">
                             <div className=''>
                                 <h1 className="text-center text-2xl font-bold mb-6 md:text-center">{item.category}</h1>
                                 <div className="flex flex-wrap flex-row justify-center md:justify-center pb-8">
