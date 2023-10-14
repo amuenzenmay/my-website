@@ -2,11 +2,12 @@ import React from 'react'
 import Image from "next/image"
 
 const skills = [
+    { skill: "Python" },
+    { skill: "Java" },
+    { skill: "SQL" },
     { skill: "HTML" },
     { skill: "JavaScript" },
     { skill: "TypeScript" },
-    { skill: "Python" },
-    { skill: "Java" },
     { skill: "Haskell" },
     { skill: "C++" },
     { skill: "R" },
@@ -28,22 +29,20 @@ const AboutSection = () => {
                         </h1>
                         <p>
                             Hi, my name is August and I am a{" "}
-                            <span className="font-bold">{"highly ambitious"}</span>,
                             <span className="font-bold">{" self-motivated"}</span>, and
-                            <span className="font-bold">{" driven"}</span> software engineer
+                            <span className="font-bold">{" driven"}</span> software developer
                             based in Chicago, IL.
                         </p>
                         <br />
                         <p>
                             I graduated from the University of Iowa in 2023
-                            with a BS in Computer Science and a BS in Mathematical
-                            Statistics and have been working in the
-                            field ever since.
+                            with a BS in Computer Science as well as a BS in Mathematical
+                            Statistics, and I have worked in IT within the financial sector ever since. 
                         </p>
                         <br />
                         <p>
                             I have a wide range of hobbies and passions that keep me busy.
-                            From watching sports, playing sports, traveling, to trivia,
+                            From watching sports, playing sports, trivia, to gambling,
                             I am always seeking new experiences and love to keep myself
                             engaged and learning new things.
                         </p>

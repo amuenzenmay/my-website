@@ -17,14 +17,14 @@ const HeroSection = () => {
                     <p className="text-lg mt-4 mb-6 md:text-2xl">
                         I&apos;m a{" "} 
                         <span className="font-semibold text-purple-600">
-                            Junior Full Stack Developer{" "}
+                            Full Stack Developer{" "}
                         </span>
-                        based in Chicago, IL. Working towards creating software 
-                        that makes life easier and more fruitful. <span className="text-white dark:text-stone-900"> I also get paid like shit 
+                         at RockItCoin in Chicago, IL. 
+                         {/* <span className="text-white dark:text-stone-900"> I also get paid like shit 
                             and I think that&apos;s bullshit!!
-                        </span>
+                        </span> */}
                     </p>
-                    <Link
+                    {/* <Link
                         to="projects"
                         className="text-neutral-100 font-semibold px-6 py-3 bg-purple-600 rounded shadow hover:bg-purple-700"
                         activeClass="active"
@@ -34,7 +34,7 @@ const HeroSection = () => {
                         duration={500}
                     >   
                     Projects  
-                    </Link>
+                    </Link> */}
                 </div>
             </div>
             <div>

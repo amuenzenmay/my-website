@@ -45,7 +45,7 @@ const general_games = [
     {game: "The Dozen", link: "https://dailydozentrivia.com/"},
     {game: "Heardle", link: "https://heardle-wordle.com/"},
     {game: "Framed", link: "https://framed.wtf/"},
-    {game: "Sporcle Dailys", link: "https://www.sporcle.com/events/games/"},
+    {game: "Sporcle Daily Questions", link: "https://www.sporcle.com/events/games/"},
     {game: "Movie Grid", link: "https://www.moviegrid.io/"},
     {game: "Plotwords", link: "https://plotwords.com/daily"}
 
