@@ -29,6 +29,10 @@ const NAV_ITEMS: Array<NavItem> = [
     {
         label: "Games",
         page: "games"
+    },
+    {
+        label: "Spotify",
+        page: "spotify"
     }
 ]
 
